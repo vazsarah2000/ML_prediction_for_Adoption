@@ -1,0 +1,50 @@
+
+convert  likert data to interval data
+
+1) common -60
+1 = 1x15 =15 S.D
+2 = 2x15 =30 D
+3 = 3x15 =45 N
+4 = 4x15 =60 A
+5 = 5x15 =75 S.A
+
+cases 
+- total neutral score :- 45
+- total agree score :- more than 45
+- total disagree score:- less than 45
+- strongly disagree:- between 15 and 30
+- disagree: between 30 and 45
+- agree: between 45 and 60
+- strongly agree between 60 and 75
+
+2) child - 24
+1 = 1x6 =6 S.D
+2 = 2x6 =12 D
+3 = 3x6 =18 N
+4 = 4x6 =24 A
+5 = 5x6 =30 S.A
+
+cases 
+- total neutral score :- 18
+- total agree score :- more than 18
+- total disagree score:- less than 18
+- strongly disagree:- between 6 and 12
+- disagree: between 12 and 18
+- agree: between 18 and 24
+- strongly agree between 24 and 30
+
+3) adolescent - 32
+1 = 1x8 =8 S.D
+2 = 2x8 =16 D
+3 = 3x8 =24 N
+4 = 4x8 =32 A
+5 = 5x8 =40 S.A
+
+cases 
+- total neutral score :- 24
+- total agree score :- more than 24
+- total disagree score:- less than 24
+- strongly disagree:- between 8 and 16
+- disagree: between 16 and 24
+- agree: between 24 and 32
+- strongly agree between 32 and 40
